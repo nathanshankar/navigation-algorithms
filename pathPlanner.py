@@ -1,4 +1,4 @@
-# AMR Coursework 2 - A* Path Planning (Code execution speed has been improved by eliminating function call overheads and by directly manipulating nodes)
+# A* Path Planning (Code execution speed has been improved by eliminating function call overheads and by directly manipulating nodes)
 class Node:
     def __init__(self, position, g_cost, h_cost, parent=None):
         """
