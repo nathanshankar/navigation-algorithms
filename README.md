@@ -8,4 +8,5 @@ git clone https://github.com/nathanshankar/leo-rover-autonomous-exploration.git
 cd navigation-algorithms
 ```
 3. Run the GUI as shown in the video
+
 https://github.com/nathanshankar/navigation-algorithms/blob/main/Pathplanning-demo.mp4
