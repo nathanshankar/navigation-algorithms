@@ -28,7 +28,7 @@ class MainWindow(QMainWindow):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
         self.layout = QVBoxLayout()
-        self.title = "AMR Coursework 2 - Path Planning"
+        self.title = "Path Planning"
         self.top = 200
         self.left = 500
         self.width = 600
